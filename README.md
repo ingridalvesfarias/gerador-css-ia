@@ -4,9 +4,9 @@
 O *CSS Gerador com IA* é uma ferramenta que transforma descrições textuais em código CSS funcional e exibe um preview em tempo real do elemento estilizado. Basta descrever o que você imagina (como "bola pulando rosa") e a IA cuidará do resto!
 
 ## Tecnologias Utilizadas
-- *Backend/IA*: Groq (para processamento das descrições e geração do código CSS)
+- *IA*: Groq (para processamento das descrições e geração do código CSS)
 - *Frontend*: Tecnologias web (HTML, CSS, JavaScript - ajuste conforme sua stack específica)
-- *Hospedagem*: Deploy realizado na Vercel (conforme visualizado na imagem)
+- *Hospedagem*: Deploy realizado na Vercel (conforme visualizado no link)
 
 ## Como Funciona
 1. Insira uma descrição textual do elemento que deseja criar no campo de entrada (ex: "bola pulando rosa").
@@ -16,3 +16,5 @@ O *CSS Gerador com IA* é uma ferramenta que transforma descrições textuais em
 
 ## Como acessar
 Acesse: https://gerador-ia-iota.vercel.app/
+
+<img src="img/imagem do projeto.png" alt="imagem do projeto">
