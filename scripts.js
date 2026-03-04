@@ -1,5 +1,5 @@
 let botao = document.querySelector(".botao-gerar")
-let endereco = "https://api.groq.com/openai/v1/chat/completions"
+let endereco = ""
 
 
 async function gerarCodigo() {
