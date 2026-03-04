@@ -14,7 +14,6 @@ O *CSS Gerador com IA* é uma ferramenta que transforma descrições textuais em
 3. O sistema enviará a descrição para a API do Groq, que retornará o código CSS correspondente.
 4. Visualize o código gerado na seção *"Código"* e o resultado final na seção *"Preview"*.
 
-## Como acessar
-Acesse: https://gerador-ia-iota.vercel.app/
+## Imagem do projeto
 
 <img src="img/imagem do projeto.png" alt="imagem do projeto">
